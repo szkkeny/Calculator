@@ -9,6 +9,9 @@
 import Foundation
 
 class Constants:NSObject {
+    let valLabelPosition = (x:0,y:96)
+    let labelFontSize = 60
+    
     //だいたい横4分割の縦7分割っぽい
     let horizontalLength :Int = 375
     let horizontalDevideVal:Int = 4
